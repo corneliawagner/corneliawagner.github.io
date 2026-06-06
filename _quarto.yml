@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Cornelia Wagner"
+  site-url: "https://corneliawagner.ch"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    include-before-body: _includes/header.html
+    include-after-body: _includes/footer.html

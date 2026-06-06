@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "933cc4fb"
+  },
+  "about.qmd": {
+    "about.html": "3dc12640"
+  },
+  "contact.qmd": {
+    "contact.html": "873befac"
+  },
+  "cv.qmd": {
+    "cv.html": "a63aae71"
+  },
+  "publications.qmd": {
+    "publications.html": "0a99f806"
+  },
+  "research.qmd": {
+    "research.html": "fdcb6f1b"
+  },
+  "talks and teaching.qmd": {
+    "talks and teaching.html": "f3174384"
+  },
+  "talks-teaching.qmd": {
+    "talks-teaching.html": "5975a2f1"
+  }
+}

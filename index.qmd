@@ -1,0 +1,119 @@
+::: {.hero}
+
+::: {.network-lines}
+:::
+
+::: {.dot .dot-1}
+:::
+
+::: {.dot .dot-2}
+:::
+
+::: {.dot .dot-3}
+:::
+
+::: {.dot .dot-4}
+:::
+
+::: {.dot .dot-5}
+:::
+
+::: {.dot .dot-6}
+:::
+
+::: {.page-container .hero-inner}
+
+::: {.eyebrow}
+SOCIAL EPIDEMIOLOGY · COMPLEXITY SCIENCE
+:::
+
+# How does health inequality emerge across a life?
+
+I study how socioeconomic disadvantage shapes health across the life course, and why preventive healthcare systems often reach those who need them least.
+
+::: {.button-row}
+[My research](research.qmd){.button-primary}
+[Publications](publications.qmd){.button-secondary}
+:::
+
+:::
+
+:::
+
+::: {.stats-band}
+
+::: {.stat}
+::: {.stat-number}
+Life course
+:::
+::: {.stat-label}
+inequalities
+:::
+:::
+
+::: {.stat}
+::: {.stat-number}
+Health equity
+:::
+::: {.stat-label}
+research
+:::
+:::
+
+::: {.stat}
+::: {.stat-number}
+Preventive care
+:::
+::: {.stat-label}
+systems
+:::
+:::
+
+::: {.stat}
+::: {.stat-number}
+Complexity
+:::
+::: {.stat-label}
+methods
+:::
+:::
+
+:::
+
+::: {.section}
+
+::: {.page-container}
+
+## Research strands
+
+::: {.cards}
+
+::: {.card .card-teal}
+
+### Life-course inequalities
+
+How socioeconomic disadvantage accumulates across lives and generations, shaping health and healthcare trajectories.
+
+:::
+
+::: {.card .card-rose}
+
+### Preventive healthcare systems
+
+How screening, monitoring, and routine care are organized — and why unequal uptake can emerge even in universal systems.
+
+:::
+
+::: {.card .card-gold}
+
+### Complexity and health equity
+
+Using complexity-informed approaches to study feedback, timing, adaptation, and unintended consequences in health systems.
+
+:::
+
+:::
+
+:::
+
+:::

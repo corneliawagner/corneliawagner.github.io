@@ -1,0 +1,24 @@
+::: {.page-container}
+
+::: {.content-page}
+
+# Contact
+
+For research-related inquiries, collaborations, or speaking invitations, please get in touch.
+
+::: {.contact-card}
+
+**Cornelia Wagner**  
+Postdoctoral researcher  
+Population Health Laboratory, University of Fribourg, Switzerland
+
+[Email](mailto:cornelia.wagner@unifr.ch){.pub-button}
+[Google Scholar](https://scholar.google.com/citations?user=13O0dTkAAAAJ&hl=en){.pub-button}
+[ORCID](https://orcid.org/0000-0001-9597-3822){.pub-button}
+[LinkedIn](https://www.linkedin.com/in/cornelia-wagner/){.pub-button}
+
+:::
+
+:::
+
+:::

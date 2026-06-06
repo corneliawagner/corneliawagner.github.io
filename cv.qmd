@@ -1,0 +1,78 @@
+::: {.page-container}
+
+::: {.content-page}
+
+# CV
+
+::: {.cv-hero}
+
+::: {.cv-hero-text}
+
+I am a postdoctoral researcher in social epidemiology, with a focus on social inequalities in health, life course epidemiology, preventive healthcare, and complexity-informed approaches to health systems.
+
+:::
+
+::: {.cv-download-box}
+
+[Download full CV](assets/cv/Cornelia_Wagner_CV.pdf){.button-primary}
+
+::: {.cv-note}
+PDF · Updated periodically
+:::
+
+:::
+
+:::
+
+## Current position
+
+::: {.cv-item}
+
+### Postdoctoral researcher
+
+Population Health Laboratory, University of Fribourg, Switzerland
+
+:::
+
+## Research interests
+
+- Social inequalities in health
+- Life course epidemiology
+- Preventive healthcare
+- Healthcare services research
+- Complexity science
+- Longitudinal methods and sequence analysis
+
+## Selected academic activities
+
+::: {.cv-list}
+
+::: {.cv-item}
+
+### Publications
+
+My work has been published in journals including *The Lancet Public Health*, *European Journal of Public Health*, and *SSM - Population Health*.
+
+:::
+
+::: {.cv-item}
+
+### Teaching and supervision
+
+I contribute to teaching in epidemiology, public health, and community health.
+
+:::
+
+::: {.cv-item}
+
+### Research agenda
+
+I am developing an independent research programme on unequal preventive healthcare trajectories, connecting life course epidemiology, healthcare services research, and complexity science.
+
+:::
+
+:::
+
+:::
+
+:::

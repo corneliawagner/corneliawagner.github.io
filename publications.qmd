@@ -1,0 +1,129 @@
+::: {.page-container}
+
+::: {.content-page}
+
+# Publications
+
+My publications examine social inequalities in health across the life course, with a focus on how disadvantage accumulates over time and shapes health, multimorbidity, longevity, and preventive healthcare.
+
+## Selected publications
+
+::: {.publication-list}
+
+::: {.publication-card .pub-featured}
+
+::: {.pub-meta}
+Review · 2024
+:::
+
+### Life course epidemiology and public health
+
+::: {.pub-authors}
+**Wagner C**, Carmeli C, Jackisch J, Kivimäki M, van der Linden BWA, Cullati S, Chiolero A.
+:::
+
+::: {.pub-citation}
+*The Lancet Public Health*. 2024;9(4):e261–e269.
+:::
+
+This Review examines how life course epidemiology changes the way chronic disease causes and prevention strategies are understood, with examples including hypertension, breast cancer, and dementia.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1016/S2468-2667(24)00018-5){.pub-button}
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38553145/){.pub-button}
+[Journal](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00018-5/fulltext){.pub-button}
+:::
+
+:::
+
+::: {.publication-card}
+
+::: {.pub-meta}
+Empirical article · 2024
+:::
+
+### Educational inequalities in multimorbidity at older ages
+
+::: {.pub-authors}
+**Wagner C**, Jackisch J, Ortega N, Sieber S, van der Linden BWA, Chiolero A, Cullati S, Carmeli C.
+:::
+
+::: {.pub-citation}
+*European Journal of Public Health*. 2024;34(4):704–711.
+:::
+
+This study examines how parental and individual education shape inequalities in multimorbidity risk among older adults across 14 European countries.
+
+::: {.pub-links}
+[Journal](https://academic.oup.com/eurpub/article/34/4/704/7688499){.pub-button}
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38840419/){.pub-button}
+:::
+
+:::
+
+::: {.publication-card}
+
+::: {.pub-meta}
+Manuscript
+:::
+
+### Trajectories and inequalities in routine healthcare uptake from adolescence to retirement
+
+::: {.pub-authors}
+**Wagner C**, Jolidon V, van der Linden BWA, Delaruelle K, Gauthier JA, Toma S, Bracke P, Burton-Jeangros C, Cullati S.
+:::
+
+::: {.pub-citation}
+Manuscript in revision.
+:::
+
+This study uses sequence analysis to examine long-term patterns of routine healthcare uptake across 14 European countries and how these patterns differ by life-course socioeconomic disadvantage.
+
+:::
+
+:::
+
+## Additional publications
+
+::: {.publication-list}
+
+::: {.publication-card}
+
+::: {.pub-meta}
+Empirical article · 2023
+:::
+
+### Intergenerational educational trajectories and inequalities in longevity
+
+::: {.pub-authors}
+**Wagner C**, Cullati S, Sieber S, Huijts T, Chiolero A, Carmeli C.
+:::
+
+::: {.pub-citation}
+*SSM - Population Health*. 2023;22:101367.
+:::
+
+This study examines how parental and individual education shape inequalities in longevity among adults born before 1965 in 14 European countries.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1016/j.ssmph.2023.101367){.pub-button}
+[Journal](https://www.sciencedirect.com/science/article/pii/S2352827323000320){.pub-button}
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36873264/){.pub-button}
+:::
+
+:::
+
+:::
+
+## Full publication list
+
+A full and regularly updated publication list is available through my external profiles.
+
+::: {.profile-links}
+[Google Scholar](https://scholar.google.com/citations?user=13O0dTkAAAAJ&hl=en){.button-secondary-dark}
+[ORCID](https://orcid.org/0000-0001-9597-3822){.button-secondary-dark}
+:::
+
+:::
+
+:::
