@@ -5,6 +5,7 @@ project:
 website:
   title: "Cornelia Wagner"
   site-url: "https://corneliawagner.ch"
+  include-after-body: goatcounter.html
 
 format:
   html:
