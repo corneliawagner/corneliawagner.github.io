@@ -31,12 +31,21 @@ Society for Social Medicine & Population Health Annual Conference / European Con
 
 ## Topics I speak and teach on
 
+::: {.teaching-section}
+
+::: {.teaching-image}
+![](assets/images/teaching.jpg){fig-alt="Cornelia Wagner teaching"}
+:::
+
+::: {.teaching-box}
 - Life course epidemiology
-- Health inequalities and health equity
-- Preventive healthcare and care pathways
-- Multimorbidity and longevity
-- Complexity-informed perspectives on public health
-- Longitudinal and sequence methods
+- Social inequalities in health
+- Complexity science and public health
+- Preventive healthcare
+- Longitudinal and sequence analysis
+:::
+
+:::
 
 ## Selected recent talks
 
