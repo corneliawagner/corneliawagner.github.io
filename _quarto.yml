@@ -5,6 +5,7 @@ project:
 website:
   title: "Cornelia Wagner"
   site-url: "https://corneliawagner.ch"
+  favicon: favicon.png
 
 format:
   html:
