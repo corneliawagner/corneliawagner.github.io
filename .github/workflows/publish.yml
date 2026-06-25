@@ -34,4 +34,8 @@ jobs:
           path: _site
       - name: Deploy to GitHub Pages
         id: deployment
+<<<<<<< HEAD
         uses: actions/deploy-pages@v4
+=======
+        uses: actions/deploy-pages@v4
+>>>>>>> 534f6e5fac9b048b82ee8bf908519ed019efb445
