@@ -73,7 +73,7 @@ Methodologically, my work draws on:
 
 I am currently developing a research programme on unequal preventive healthcare trajectories. This work asks how social inequalities shape the timing, regularity, and continuity of preventive care, and how healthcare systems may unintentionally reinforce unequal patterns of use.
 
-Future work will further connect life course research with complexity science, participatory systems mapping, and health insurance or registry-based data where possible.
+Future work will further connect life course research with complexity science, participatory systems mapping, and cohort or registry-based data where possible.
 
 [See publications](publications.qmd){.button-primary}
 
