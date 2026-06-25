@@ -1,3 +1,8 @@
+---
+title: "Contact"
+title-block-style: none
+---
+
 ::: {.page-container}
 
 ::: {.content-page}
