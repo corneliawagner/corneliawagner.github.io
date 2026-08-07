@@ -79,7 +79,7 @@ Empirical article · 2026
 :::
 
 ::: {.pub-citation}
-*Social Science & Medicine*, 2026;405:119608.
+*Social Science & Medicine*. 2026;405:119608.
 :::
 
 This study uses sequence analysis to examine long-term patterns of routine healthcare uptake across 14 European countries and how these patterns differ by life-course socioeconomic disadvantage.
@@ -92,13 +92,13 @@ This study uses sequence analysis to examine long-term patterns of routine healt
 
 :::
 
-::: {.publication-card}
+:::
 
 ## Additional publications
 
 ::: {.publication-list}
 
-::: 
+::: {.publication-card}
 
 ::: {.pub-meta}
 Empirical article · 2023
