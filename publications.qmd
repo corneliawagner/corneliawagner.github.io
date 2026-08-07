@@ -98,7 +98,7 @@ This study uses sequence analysis to examine long-term patterns of routine healt
 
 ::: {.publication-list}
 
-::: {.publication-card}
+::: 
 
 ::: {.pub-meta}
 Empirical article · 2023
