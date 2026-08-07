@@ -69,7 +69,7 @@ This study examines how parental and individual education shape inequalities in 
 ::: {.publication-card}
 
 ::: {.pub-meta}
-Manuscript
+Empirical article · 2026
 :::
 
 ### Trajectories and inequalities in routine healthcare uptake from adolescence to retirement
@@ -79,14 +79,20 @@ Manuscript
 :::
 
 ::: {.pub-citation}
-Manuscript in revision.
+*Social Science & Medicine*, 2026;405:119608.
 :::
 
 This study uses sequence analysis to examine long-term patterns of routine healthcare uptake across 14 European countries and how these patterns differ by life-course socioeconomic disadvantage.
 
+::: {.pub-links}
+[DOI](https://doi.org/10.1016/j.socscimed.2026.119608){.pub-button}
+[Journal](https://www.sciencedirect.com/science/article/pii/S0277953626006854){.pub-button}
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42470833/){.pub-button}
 :::
 
 :::
+
+::: {.publication-card}
 
 ## Additional publications
 
