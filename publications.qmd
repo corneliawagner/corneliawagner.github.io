@@ -15,6 +15,32 @@ My publications examine social inequalities in health across the life course, wi
 
 ::: {.publication-list}
 
+:::
+
+::: {.publication-card .pub-complexity}
+
+::: {.pub-meta}
+Conceptual article · 2026
+:::
+
+### Secondary prevention as a complex adaptive system: risk classification, healthcare capacity, and inequality
+
+::: {.pub-authors}
+**Wagner C**, Uleman JF, de Vries TR, Varga TV.
+:::
+
+::: {.pub-citation}
+*Preprint*. September 2026.
+:::
+
+This preprint frames secondary prevention as a complex adaptive system, showing how changes in risk thresholds interact with healthcare capacity and unequal access to produce unintended and unequally distributed consequences.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.5281/zenodo.22801099){.pub-button}
+:::
+
+:::
+
 ::: {.publication-card .pub-prevention}
 
 ::: {.pub-meta}
@@ -65,31 +91,6 @@ This Review examines how life course epidemiology changes the way chronic diseas
 [Journal](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00018-5/fulltext){.pub-button}
 :::
 
-:::
-
-::: {.publication-card .pub-complexity}
-
-::: {.pub-meta}
-Conceptual article · 2026
-:::
-
-### Secondary prevention as a complex adaptive system: risk classification, healthcare capacity, and inequality
-
-::: {.pub-authors}
-**Wagner C**, Uleman JF, de Vries TR, Varga TV.
-:::
-
-::: {.pub-citation}
-*Preprint*. September 2026.
-:::
-
-This preprint frames secondary prevention as a complex adaptive system, showing how changes in risk thresholds interact with healthcare capacity and unequal access to produce unintended and unequally distributed consequences.
-
-::: {.pub-links}
-[DOI](https://doi.org/10.5281/zenodo.22801099){.pub-button}
-:::
-
-:::
 :::
 
 ## Additional publications
