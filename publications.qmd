@@ -15,8 +15,6 @@ My publications examine social inequalities in health across the life course, wi
 
 ::: {.publication-list}
 
-:::
-
 ::: {.publication-card .pub-complexity}
 
 ::: {.pub-meta}
@@ -89,6 +87,8 @@ This Review examines how life course epidemiology changes the way chronic diseas
 [DOI](https://doi.org/10.1016/S2468-2667(24)00018-5){.pub-button}
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38553145/){.pub-button}
 [Journal](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00018-5/fulltext){.pub-button}
+:::
+
 :::
 
 :::
