@@ -18,18 +18,13 @@ If you will be nearby and would like to connect, feel free to reach out.
 ::: {.where-list}
 
 ::: {.where-item}
-**Hamburg, Germany** · 19–21 August 2026  
-European Society of Health and Medical Sociology Conference
+**Paris, France** · February 2027  
+Invited research seminar
 :::
 
 ::: {.where-item}
-**Lucerne, Switzerland** · 2–3 September 2026  
-Swiss Public Health Conference
-:::
-
-::: {.where-item}
-**London, United Kingdom** · 9–11 September 2026  
-Society for Social Medicine & Population Health Annual Conference / European Congress of Epidemiology
+**Copenhagen, Denmark** · 16 April 2027  
+Inaugural Health Complexity Conference
 :::
 
 :::
@@ -52,23 +47,31 @@ Society for Social Medicine & Population Health Annual Conference / European Con
 
 :::
 
-## Selected recent talks
+## Selected recent talks and presentations
 
 ::: {.compact-list}
 
 ::: {.compact-item}
+**Migration and life-course trajectories of preventive healthcare uptake in Europe**
+Society for Social Medicine & Population Health Annual Conference / European Congress of Epidemiology  
+*London, United Kingdom, 9–11 September 2026*
+:::
+
+::: {.compact-item}
+**Addressing thecomplexity in the room: an interdisciplinary workshop on how we can understand health complexity**
+Swiss Public Health Conference
+*Lucerne, Switzerland, 2–3 September 2026*
+:::
+
+::: {.compact-item}
+**Migration and life-course patterns of preventive healthcare uptake in Europe**
+European Society of Health and Medical Sociology Conference 2026 
+*Hamburg, Germany, 19–21 August 2026*
+:::
+
+::: {.compact-item}
 **Socioeconomic determinants and chronic disease: tracking inequality through the life course**  
 European Public Health Association Chronic Disease Section, online webinar series, 2025.
-:::
-
-::: {.compact-item}
-**A life course perspective on socioeconomic determinants of health inequalities**  
-Department of Sociology, Ghent University, 2025.
-:::
-
-::: {.compact-item}
-**Life-course disadvantage and healthcare trajectories**  
-Presented at meetings including the Society for Longitudinal and Lifecourse Studies Annual Conference, LIVES Day, and the European Public Health Conference.
 :::
 
 :::
