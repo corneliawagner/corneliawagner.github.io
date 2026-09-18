@@ -899,8 +899,18 @@ h2.anchored,
   background: var(--rose);
 }
 
-.pub-featured::before {
+/* Publication colours by research strand */
+
+.publication-card.pub-life-course::before {
   background: var(--teal);
+}
+
+.publication-card.pub-prevention::before {
+  background: var(--rose);
+}
+
+.publication-card.pub-complexity::before {
+  background: var(--gold);
 }
 
 .pub-meta {
